@@ -4,7 +4,7 @@
 	*/
 	class Fibonacci{ 
 
-			//Construtor.
+		//Construtor.
         	function __construct() {
             	print '<div class="criando-objeto">O objeto da classe Fibonacci foi instanciado.</div><br/>';
         	}
