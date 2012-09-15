@@ -25,7 +25,7 @@
 
 					//echo $objetoFibonacci->fibonacciRecursive(5);
 
-					//Usa a função que mostra N termos (um número grande - maior do que 20- acarreta lentidão)
+					//Usa a funÃ§Ã£o que mostra N termos (um nÃºmero grande - maior do que 20- acarreta lentidÃ£o)
 					echo $objetoFibonacci->calculaNTermos(30);
 
 				?>
